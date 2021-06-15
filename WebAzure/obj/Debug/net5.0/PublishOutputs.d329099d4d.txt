@@ -1,0 +1,11 @@
+C:\Users\hp\Desktop\azure\WebAzure\WebAzure\bin\Debug\net5.0\publish\WebAzure.exe
+C:\Users\hp\Desktop\azure\WebAzure\WebAzure\bin\Debug\net5.0\publish\appsettings.Development.json
+C:\Users\hp\Desktop\azure\WebAzure\WebAzure\bin\Debug\net5.0\publish\appsettings.json
+C:\Users\hp\Desktop\azure\WebAzure\WebAzure\bin\Debug\net5.0\publish\WebAzure.dll
+C:\Users\hp\Desktop\azure\WebAzure\WebAzure\bin\Debug\net5.0\publish\WebAzure.deps.json
+C:\Users\hp\Desktop\azure\WebAzure\WebAzure\bin\Debug\net5.0\publish\WebAzure.runtimeconfig.json
+C:\Users\hp\Desktop\azure\WebAzure\WebAzure\bin\Debug\net5.0\publish\WebAzure.pdb
+C:\Users\hp\Desktop\azure\WebAzure\WebAzure\bin\Debug\net5.0\publish\Microsoft.OpenApi.dll
+C:\Users\hp\Desktop\azure\WebAzure\WebAzure\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Desktop\azure\WebAzure\WebAzure\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Desktop\azure\WebAzure\WebAzure\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
